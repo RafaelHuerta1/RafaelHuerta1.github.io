@@ -157,7 +157,9 @@ body, ul {
 
 
 /* Estilos para pantallas más pequeñas */
-@media screen and (max-width: 768px) {
+
+
+@media  ( max-width: 768px ) {
   .nav-links {
     display: none; /* Oculta la lista de enlaces en pantallas pequeñas */
   }
